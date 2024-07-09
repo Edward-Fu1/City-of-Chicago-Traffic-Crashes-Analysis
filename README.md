@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-This project analyzes traffic crash data from Chicago using SQL queries. The analysis covers various aspects of traffic accidents to gain insights into patterns, contributing factors, and safety concerns.
+This project analyzes traffic crash data from Chicago using SQL queries and visualizes key findings using Tableau, covering various aspects of traffic accidents to gain insights into patterns, contributing factors, and safety concerns.
 
 ## Dataset
 This dataset is sourced from Data.gov: https://catalog.data.gov/dataset/traffic-crashes-crashes , which is published by the City of Chicago's Data Portal (data.cityofchicago.org)
