@@ -48,7 +48,7 @@ Notably, fatal injuries accounted for 932 cases, representing 0.1% of all report
 
 - The majority of accidents were reported in the downtown area.
 - Hit and run incidents showed a significant increase in suburban areas, particularly Oak Park.
-- 
+  
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/39b37a8a-ac86-4661-80ac-30f99d3ed8e5)
 
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/cf51b601-c9bd-4fa2-ba2f-b80733d636f6)
