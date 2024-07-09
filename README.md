@@ -46,7 +46,9 @@ Notably, fatal injuries accounted for 932 cases, representing 0.1% of all report
 
 - The majority of accidents were reported in the downtown area.
 - Hit and run incidents showed a significant increase in suburban areas, particularly Oak Park.
+- 
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/39b37a8a-ac86-4661-80ac-30f99d3ed8e5)
+
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/cf51b601-c9bd-4fa2-ba2f-b80733d636f6)
 
 
@@ -54,6 +56,7 @@ Notably, fatal injuries accounted for 932 cases, representing 0.1% of all report
 ### Damage Assessment
 
 While most accidents resulted in minor or no injuries, over 60% of incidents caused property damage exceeding $1,500 USD.
+
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/224ef014-9f50-4656-9a7f-25dc8b60a359)
 
 
@@ -62,12 +65,14 @@ While most accidents resulted in minor or no injuries, over 60% of incidents cau
 #### Day of the Week
 - Highest accident rates: Friday, followed by Saturday
 - Lowest accident rates: Sunday
+  
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/2d9c85ef-e175-4795-a6ba-6ed37815f427)
 
 
 #### Monthly Distribution
 - Peak accident months: May and June
 - Lowest accident month: February
+  
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/24f0bfac-3195-430d-bbe7-b330466ade01)
 
 ### Year-over-Year Comparison
@@ -77,6 +82,7 @@ Analysis of data from 2019 to 2023 revealed:
   - A significant decrease in accidents after February.
   - Another decline after August.
 - These anomalies in 2020 are likely attributable to the COVID-19 pandemic, which dramatically altered traffic patterns and overall mobility.
+  
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/761e3679-0fdd-40ea-8a5a-bf62312574ed)
 
 
