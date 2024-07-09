@@ -1,4 +1,4 @@
-# Chicago Traffic Crashes Analysis
+<img width="838" alt="image" src="https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/4ed5e73c-3e83-4f8c-86a1-1b1c12c771af"># Chicago Traffic Crashes Analysis
 
 ## Project Overview
 This project analyzes traffic crash data from Chicago using SQL queries. The analysis covers various aspects of traffic accidents to gain insights into patterns, contributing factors, and safety concerns.
@@ -15,6 +15,12 @@ This dataset is sourced from Data.gov: https://catalog.data.gov/dataset/traffic-
 - Grouping and Filtering Data
 - Subqueries
 - Data Interpretation
+
+
+## Findings
+<img width="838" alt="image" src="https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/8cd11954-fa35-4f6c-90ee-91de849a494a">
+
+
 
 ## Analysis Overview
 
