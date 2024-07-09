@@ -1,4 +1,6 @@
  # City of Chicago Traffic Crashes Analysis
+![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/4ba8454a-8029-4be9-ba48-9762e19eb150)
+
 
 ## Project Overview
 This project analyzes traffic crash data from Chicago using SQL queries. The analysis covers various aspects of traffic accidents to gain insights into patterns, contributing factors, and safety concerns.
