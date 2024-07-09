@@ -1,4 +1,4 @@
-# City of Chicago Traffic Crashes Analysis
+ # City of Chicago Traffic Crashes Analysis
 
 ## Project Overview
 This project analyzes traffic crash data from Chicago using SQL queries. The analysis covers various aspects of traffic accidents to gain insights into patterns, contributing factors, and safety concerns.
@@ -29,6 +29,7 @@ Out of 849,535 reported accidents, injuries were categorized into five levels of
 5. Fatal injury
 
 Notably, fatal injuries accounted for 932 cases, representing 0.1% of all reported accidents.
+
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/4ccd26d5-fff7-4eea-8f61-fd45df6d10f1)
 
 
@@ -37,6 +38,7 @@ Notably, fatal injuries accounted for 932 cases, representing 0.1% of all report
 - 111,222 parked vehicles were involved in accidents.
 - Only 3,218 drivers (2.9%) stayed at the scene and reported the incident.
 - 108,004 cases (97.1%) were classified as hit and run.
+
 ![image](https://github.com/Edward-Fu1/City-of-Chicago-Traffic-Crashes-Analysis/assets/19893884/ac8f9d3d-9d73-4fab-8d34-8dbc671045ad)
 
 
